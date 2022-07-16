@@ -1,7 +1,7 @@
 use macroquad::prelude::*;
 // use rfd::FileDialog;
 
-use chip8-interpreter::Chip8;
+use chip8_interpreter::Chip8;
 
 #[macroquad::main("Chip8Emu")]
 async fn main() {
